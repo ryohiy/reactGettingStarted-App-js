@@ -1,2 +1,2 @@
-# reactGettingStarted-App-js-3
+# reactGettingStarted-App-js
 Created with CodeSandbox
